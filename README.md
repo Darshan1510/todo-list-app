@@ -1,12 +1,18 @@
 # Simple Todo List Application
 
-Uses:
+### Uses:
+
 1) Axios
 2) Router
 3) State
 4) Props
 5) PropTypes
 6) JsonPlaceHolder APIs(https://jsonplaceholder.typicode.com/).
+
+### Reference:
+
+React crash course from Traversy Media:https://www.youtube.com/watch?v=sBws8MSXN7A
+
 
 # Getting Started with Create React App
 
