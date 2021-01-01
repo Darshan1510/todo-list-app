@@ -1,3 +1,13 @@
+# Simple Todo List Application
+
+Uses:
+1) Axios
+2) Router
+3) State
+4) Props
+5) PropTypes
+6) JsonPlaceHolder APIs(https://jsonplaceholder.typicode.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
